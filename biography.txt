@@ -1,32 +1,34 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. What is your name?
 Jennifer Cox
 
 2. Why are you interested in Data Science?
-I've worked in research for almost 10 years in an administrative role. I found myself very interested in what our scientists were working on, and in fact,
+I've worked in research for almost 10 years in an more administrative role. I found myself very interested in what our scientists were working on, and in fact,
 found it to be almost crucial to do my job to really understand what they were doing and why they were doing it.  I've always been interested in math and science
-and less interested in business so how I even have been doing so much of that in my professional strange (although it was a crucial step for my knowledge base for
+and less interested in business so how I even have been doing so much of that in my professional life is strange (although it was a crucial step for my knowledge base for
 my job so I'm happy to have the experience).  So, it is now time for me to dig deeper into science, focus on my original interest and get my curious mind going 
 again. I'm currently in a project management role so I'm hoping an MS in Data Science will simply make me better in my job and also allow me to dig deeper into
-our discussions with our Scientists and participate in the science!
+our discussions with our Scientists and participate further in the science!
 
 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
 I'm a novice.  I just finished the prerequisites for the program by taking an Intro to Computer Programming course that focused on Java.  I found it very difficult,
-but somehow managed to get through it :) I often review code and we speak pseudocode in my work. I haven't had to do any of the actual programming. We are mainly
+but somehow managed to get through it :) I often review code and we discuss pseudocode in my work. I haven't had to do any of the actual programming. We are mainly
 using Microsoft Access in our work, but will be incorporating SQL soon.  I work with scientists who use all different languages, but Python and R are the preferred
-languages and the direction we'll be heading. My knowledge of this is quite timely!
+languages and the direction we'll be heading in the future. 
 
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-I took an elementary statistics course as an undergrad in probably 2003 or 2004.  We do talk statistics in my job, but it's really basic stats.  I've used a little
-SPSS (which I understand is a totally outdated program) in the last 5 years, but nothing too complex.
+I took an elementary statistics course as an undergrad in probably 2003 or 2004.  We do talk statistics in my job, but really basic stats. We leave our analysis
+to the professionals at this point.  I've used a little SPSS (which I understand is a totally outdated program) to do some exploratory analysis in the last 5 years, 
+but nothing too complex.
 
 5.  Do you have other experience with R or Python?
 No, but as I mentioned, learning both are very timely for my job.
 
 6.  What do you hope to learn in this class?
 Since I am totally new, I'm hoping to learn anything I can relating to R and Python. I need to start at the basics so, at the end of the class, I am hoping to have
-good working knowledge of both programs.
+good working knowledge of both programs--knowing there will be more to learn as I continue to use them.
 
 7.  Is there anything else you would like to share with us?
 I really am totally new to all of this and will likely ask a lot of basic questions. Thank you for your patience :)
